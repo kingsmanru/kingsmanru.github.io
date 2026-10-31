@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.kingsmanodyssey.ru/sitemap.xml
